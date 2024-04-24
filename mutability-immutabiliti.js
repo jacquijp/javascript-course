@@ -16,3 +16,11 @@ let fruits = ['apple', 'orange']
 fruits[0] = 'grape'
 console.log(fruits)
 
+function changeName (object) {
+    object.name = 'New name'
+}
+
+let person = {name: 'Tom'}
+changeName(person)
+
+console.log(person)
