@@ -22,3 +22,17 @@ const thirdSection = 'Spain'
 const sentence = [firstSection, secondSection, thirdSection]
 console.log(sentence.join(' food '))
 
+//4.Concatenations: concat()
+const hobbie1 = 'running'
+const hobbie2 = 'cooking'
+const hobbie3 = 'painting'
+const hobbies = 'My hobbies are: '.concat(hobbie1, ', ', hobbie2, ', ', hobbie3, '.')
+console.log(hobbies)
+
+//Scape characters
+//1.Alternative Scape 
+const alternativeScape = "I'm the alternative sentence"
+
+//2. Inverted slash
+const invertedSlash = 'I\'m the inverted slash'
+
