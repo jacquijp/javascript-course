@@ -1,2 +1,2 @@
 # javascript-course
-This repository contains my notes, practices and exercises for my JavaScript course.
+This repository contains some notes, practices and exercises of a JavaScript course.
